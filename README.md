@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Hamad .. 
 - 👋 I did MS in Computer Sciences with specialization in Cyber Security --- 
 - 👀 I’m interested in Ethical Hacking and Data Science
-- 🌱 I’m currently a Penetration Tester
-- 💞️ I’m looking for an Open PhD position 
+- 🌱 I’m currently a Penetration Tester=
 - 📫 Email me -> mhamad758@gmail.com
